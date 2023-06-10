@@ -1,4 +1,6 @@
 '''
+Bibliography
+
 https://realpython.com/python-not-operator/#:~:text=Python's%20not%20is%20a%20logical,of%20action%20in%20your%20program.
 https://www.trainingint.com/how-to-find-duplicates-in-a-python-list.html
 colours: https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007
@@ -15,9 +17,5 @@ https://www.geeksforgeeks.org/how-to-replace-values-in-a-list-in-python/
 https://www.w3schools.com/python/python_booleans.asp
 https://www.youtube.com/watch?v=8a9wwsUT-o4
 https://www.tutorialspoint.com/boolean-list-initialization-in-python#:~:text=With%20*%20operator&text=We%20use%20it%20to%20create%20a%20list%20with%20a%20Boolean%20value.
-
-feedback: 
-    relative file paths so anyone can access data on their own computer
-    convert edible list to a boolean value(makes list value smaller and saves bytes) : double check with teacher to make sure its what he wanted
-    
+ 
 '''
