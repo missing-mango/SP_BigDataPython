@@ -2,10 +2,10 @@
 Bibliography
 
 **ChatGPT was used to determine the IDE I used (Spyder) and how to set it up
+Colours: https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007
+
 https://realpython.com/python-not-operator/#:~:text=Python's%20not%20is%20a%20logical,of%20action%20in%20your%20program.
 https://www.trainingint.com/how-to-find-duplicates-in-a-python-list.html
-colours: https://gist.github.com/rene-d/9e584a7dd2935d0f461904b9f2950007
-
 https://flexiple.com/python/not-equal-python/
 https://www.youtube.com/watch?v=Jss3u2s_jKs
 https://www.w3schools.com/python/python_modules.asp
